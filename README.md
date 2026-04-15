@@ -1,2 +1,3 @@
-# bot-dados-rpg
-Um bot de rolagem de dados para sessões de RPG de Mesa online.
+# Lucky Dices
+
+Um bot que fiz programei para uso pessoal em sessões de rpg utilizando o discord.py para conectar com o discord e o Wispbyte como host.
